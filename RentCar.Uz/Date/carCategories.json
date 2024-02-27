@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Economy class",
+    "Id": 1,
+    "CreatedAt": "2024-02-24T12:39:17.6888432Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Premium",
+    "Id": 2,
+    "CreatedAt": "2024-02-24T13:51:42.4631791Z",
+    "UpdatedAt": "2024-02-24T14:55:58.0968616Z",
+    "DeletedAt": "2024-02-24T14:53:02.565522Z",
+    "IsDeleted": false
+  }
+]
